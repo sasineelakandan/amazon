@@ -1,2 +1,2 @@
-# amezon
+ https://sasineelakandan.github.io/amezon/
  
