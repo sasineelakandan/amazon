@@ -1,2 +1,2 @@
- https://sasineelakandan.github.io/amezon/
+ https://sasineelakandan.github.io/amazon/
  
